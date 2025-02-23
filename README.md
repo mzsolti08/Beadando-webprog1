@@ -1,2 +1,4 @@
-# Z-r-vizsga-webprog1
+# Beadando-webprog1
 Beadandó - webprog1 LA02 - Móni Zsolt
+
+Szép napot tanár Úr! Feltöltöm a OKJ záróvizsga feladatom. Vannak benne hibák, de remélem így is értékelhető lesz. Tisztelettel, Móni Zsolt.
